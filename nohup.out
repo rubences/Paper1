@@ -1,0 +1,934 @@
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-04-02 20:48:13][00m [32m172.18.0.1:34176[00m was served file [35m/home/runner/LaTeX/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-02 20:48:13][00m                            found index file for directory [35m/home/runner/LaTeX[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-02 20:48:13][00m [32m172.18.0.1:34176[00m was served file [35m/home/runner/LaTeX/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-04-02 20:48:19][00m [32m172.18.0.1:34178[00m was served file [35m/home/runner/LaTeX/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-04-03 06:10:45][00m [32m172.18.0.1:43916[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-03 06:10:45][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-03 06:10:45][00m [32m172.18.0.1:43918[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-03 06:10:45][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-03 06:10:46][00m [32m172.18.0.1:43918[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-03 06:10:46][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-04-05 02:35:42][00m [32m172.18.0.1:44366[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-05 02:35:42][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-05 02:35:43][00m [32m172.18.0.1:44368[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-05 02:35:43][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-05 02:35:43][00m [32m172.18.0.1:44368[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-05 02:35:43][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-04-11 13:31:59][00m [32m172.18.0.1:51928[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-11 13:31:59][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-11 13:31:59][00m [32m172.18.0.1:51930[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-11 13:31:59][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-11 13:32:00][00m [32m172.18.0.1:51930[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-11 13:32:00][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-04-19 10:30:32][00m [32m172.18.0.1:34886[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-19 10:30:32][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-19 10:30:32][00m [32m172.18.0.1:34888[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-19 10:30:32][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-19 10:30:32][00m [32m172.18.0.1:34888[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-19 10:30:32][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-19 10:31:02][00m [32m172.18.0.1:34890[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-19 10:31:22][00m [32m172.18.0.1:34892[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-19 10:31:49][00m [32m172.18.0.1:51214[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-19 10:31:49][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-04-21 15:10:09][00m [32m172.18.0.1:50118[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-21 15:10:09][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-21 15:10:09][00m [32m172.18.0.1:50120[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-21 15:10:09][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-21 15:10:10][00m [32m172.18.0.1:50120[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-21 15:10:10][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-04-24 04:57:00][00m [32m172.18.0.1:34626[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-24 04:57:00][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-24 04:57:01][00m [32m172.18.0.1:34628[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-24 04:57:01][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-24 04:57:01][00m [32m172.18.0.1:34628[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-04-24 04:57:01][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-10 12:16:56][00m [32m172.18.0.1:41356[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-10 12:16:56][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-10 12:16:56][00m [32m172.18.0.1:41358[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-10 12:16:56][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-10 12:16:57][00m [32m172.18.0.1:41358[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-10 12:16:57][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-12 02:42:23][00m [32m172.18.0.1:42314[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-12 02:42:23][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-12 02:42:24][00m [32m172.18.0.1:42316[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-12 02:42:24][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-12 02:42:24][00m [32m172.18.0.1:42316[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-12 02:42:24][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-15 09:39:34][00m [32m172.18.0.1:41238[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-15 09:39:34][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-15 09:39:35][00m [32m172.18.0.1:41240[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-15 09:39:35][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-15 09:39:36][00m [32m172.18.0.1:41240[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-15 09:39:36][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-16 03:08:44][00m [32m172.18.0.1:36362[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-16 03:08:44][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-16 03:08:44][00m [32m172.18.0.1:36364[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-16 03:08:44][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-16 03:08:44][00m [32m172.18.0.1:36364[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-16 03:08:44][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-16 14:43:02][00m [32m172.18.0.1:53192[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-16 14:43:02][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-16 14:43:02][00m [32m172.18.0.1:53194[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-16 14:43:02][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-16 14:43:02][00m [32m172.18.0.1:53194[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-16 14:43:02][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-16 22:01:57][00m [32m172.18.0.1:43532[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-16 22:01:57][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-16 22:01:57][00m [32m172.18.0.1:43534[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-16 22:01:57][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-16 22:01:57][00m [32m172.18.0.1:43534[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-16 22:01:57][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-16 22:02:36][00m [32m172.18.0.1:43536[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-16 22:02:36][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-16 22:02:36][00m [32m172.18.0.1:43536[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-17 08:07:30][00m [32m172.18.0.1:40426[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-17 08:07:30][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-17 08:07:31][00m [32m172.18.0.1:40428[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-17 08:07:31][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-17 08:07:31][00m [32m172.18.0.1:40428[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-17 08:07:31][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-17 09:10:59][00m [32m172.18.0.1:36558[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-17 09:10:59][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-17 17:26:07][00m [32m172.18.0.1:46954[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-17 17:26:07][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-17 17:26:07][00m [32m172.18.0.1:46956[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-17 17:26:07][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-17 17:26:07][00m [32m172.18.0.1:46956[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-17 17:26:07][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-17 17:26:23][00m [32m172.18.0.1:34112[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-17 17:26:23][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-18 13:46:02][00m [32m172.18.0.1:40524[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-18 13:46:02][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-18 13:46:02][00m [32m172.18.0.1:40526[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-18 13:46:02][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-18 13:46:03][00m [32m172.18.0.1:40526[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-18 13:46:03][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-19 20:15:08][00m [32m172.18.0.1:37392[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-19 20:15:08][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-19 20:15:08][00m [32m172.18.0.1:37396[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-19 20:15:08][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-19 20:15:08][00m [32m172.18.0.1:37396[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-19 20:15:08][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-20 05:03:55][00m [32m172.18.0.1:43612[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-20 05:03:55][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-20 05:03:55][00m [32m172.18.0.1:43614[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-20 05:03:55][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-20 05:03:55][00m [32m172.18.0.1:43614[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-20 05:03:55][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-20 22:37:11][00m [32m172.18.0.1:44660[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-20 22:37:11][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-20 22:37:11][00m [32m172.18.0.1:44662[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-20 22:37:11][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-21 07:45:48][00m [32m172.18.0.1:59752[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-21 07:45:48][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-21 07:45:49][00m [32m172.18.0.1:59754[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-21 07:45:49][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-21 20:11:54][00m [32m172.18.0.1:44732[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-21 20:11:54][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-21 20:11:55][00m [32m172.18.0.1:44736[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-21 20:11:55][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-21 20:11:55][00m [32m172.18.0.1:44736[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-21 20:11:55][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-21 20:11:59][00m [32m172.18.0.1:44744[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-21 20:12:01][00m [32m172.18.0.1:44748[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-23 19:49:03][00m [32m172.18.0.1:43652[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-23 19:49:03][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-26 03:07:05][00m [32m172.18.0.1:56742[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-26 03:07:05][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-26 03:07:05][00m [32m172.18.0.1:56744[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-26 03:07:05][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-26 03:07:05][00m [32m172.18.0.1:56744[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-26 03:07:05][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-26 21:42:11][00m [32m172.18.0.1:51176[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-26 21:42:11][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-26 21:42:11][00m [32m172.18.0.1:51178[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-26 21:42:11][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-26 21:42:11][00m [32m172.18.0.1:51178[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-26 21:42:11][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-28 00:25:18][00m [32m172.18.0.1:34210[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-28 00:25:18][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-28 00:25:18][00m [32m172.18.0.1:34212[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-28 00:25:18][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-28 00:25:18][00m [32m172.18.0.1:34212[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-28 00:25:18][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-31 00:40:33][00m [32m172.18.0.1:48796[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-31 00:40:33][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-31 00:40:34][00m [32m172.18.0.1:48798[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-31 00:40:34][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-31 00:40:35][00m [32m172.18.0.1:48798[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-31 00:40:35][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-05-31 21:11:33][00m [32m172.18.0.1:58186[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-31 21:11:33][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-31 21:11:33][00m [32m172.18.0.1:58188[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-31 21:11:33][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-31 21:11:33][00m [32m172.18.0.1:58188[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-05-31 21:11:33][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-01 19:50:49][00m [32m172.18.0.1:37278[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-01 19:50:49][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-01 19:50:49][00m [32m172.18.0.1:37280[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-01 19:50:49][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-01 19:50:49][00m [32m172.18.0.1:37280[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-01 19:50:49][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-02 18:33:44][00m [32m172.18.0.1:46192[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-02 18:33:44][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-02 18:33:44][00m [32m172.18.0.1:46194[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-02 18:33:44][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-02 18:33:45][00m [32m172.18.0.1:46194[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-02 18:33:45][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-02 23:32:00][00m [32m172.18.0.1:51480[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-02 23:32:00][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-02 23:32:00][00m [32m172.18.0.1:51482[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-02 23:32:00][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-02 23:32:01][00m [32m172.18.0.1:51482[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-02 23:32:01][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-02 23:32:34][00m [32m172.18.0.1:51494[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-03 23:03:25][00m [32m172.18.0.1:56136[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-03 23:03:25][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-03 23:03:25][00m [32m172.18.0.1:56138[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-03 23:03:25][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-03 23:03:25][00m [32m172.18.0.1:56138[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-03 23:03:25][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-04 00:33:43][00m [32m172.18.0.1:34948[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-04 00:33:43][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-04 00:33:43][00m [32m172.18.0.1:34950[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-04 00:33:43][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-04 00:33:43][00m [32m172.18.0.1:34950[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-04 00:33:43][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-05 15:14:46][00m [32m172.18.0.1:42044[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-05 15:14:46][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-05 15:14:47][00m [32m172.18.0.1:42048[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-05 15:14:47][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-05 15:14:47][00m [32m172.18.0.1:42048[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-05 15:14:47][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-06 04:44:22][00m [32m172.18.0.1:52264[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-06 04:44:22][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-06 04:44:22][00m [32m172.18.0.1:52266[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-06 04:44:22][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-06 04:44:22][00m [32m172.18.0.1:52266[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-06 04:44:22][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-06 04:44:23][00m [32m172.18.0.1:52266[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-06 04:44:45][00m [32m172.18.0.1:52290[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-06 17:46:51][00m [32m172.18.0.1:58178[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-06 17:46:51][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-06 17:46:51][00m [32m172.18.0.1:58180[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-06 17:46:51][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-06 17:46:52][00m [32m172.18.0.1:58180[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-06 17:46:52][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-06 17:47:03][00m [32m172.18.0.1:58182[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-06 17:47:13][00m [32m172.18.0.1:58188[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-07 16:42:59][00m [32m172.18.0.1:46478[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-07 16:42:59][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-07 16:43:00][00m [32m172.18.0.1:46480[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-07 16:43:00][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-07 16:43:00][00m [32m172.18.0.1:46480[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-07 16:43:00][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-08 18:36:32][00m [32m172.18.0.1:33530[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-08 18:36:32][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-08 18:36:33][00m [32m172.18.0.1:33532[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-08 18:36:33][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-08 18:36:33][00m [32m172.18.0.1:33532[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-08 18:36:33][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-09 01:52:15][00m [32m172.18.0.1:55268[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-09 01:52:15][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-09 01:52:16][00m [32m172.18.0.1:55270[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-09 01:52:16][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-09 01:52:16][00m [32m172.18.0.1:55270[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-09 01:52:16][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-10 21:56:24][00m [32m172.18.0.1:38676[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-10 21:56:24][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-10 21:56:24][00m [32m172.18.0.1:38678[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-10 21:56:24][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-10 21:56:25][00m [32m172.18.0.1:38678[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-10 21:56:25][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-10 21:56:28][00m [32m172.18.0.1:38678[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-10 21:56:30][00m [32m172.18.0.1:38678[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-10 21:56:47][00m [32m172.18.0.1:38680[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-10 21:57:03][00m [32m172.18.0.1:38682[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-10 21:57:13][00m [32m172.18.0.1:38686[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-13 17:35:55][00m [32m172.18.0.1:33604[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-13 17:35:55][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-13 17:35:56][00m [32m172.18.0.1:33606[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-13 17:35:56][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-13 17:35:56][00m [32m172.18.0.1:33606[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-13 17:35:56][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-14 20:42:41][00m [32m172.18.0.1:39620[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-14 20:42:41][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-14 20:42:41][00m [32m172.18.0.1:39622[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-14 20:42:41][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-14 20:42:43][00m [32m172.18.0.1:41836[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-14 20:42:43][00m [32m172.18.0.1:39622[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-14 20:42:43][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-15 10:47:23][00m [32m172.18.0.1:38356[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-15 10:47:23][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-15 10:47:23][00m [32m172.18.0.1:38358[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-15 10:47:23][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-15 10:47:23][00m [32m172.18.0.1:38358[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-15 10:47:23][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-15 19:55:41][00m [32m172.18.0.1:44648[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-15 19:55:41][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-15 19:55:41][00m [32m172.18.0.1:44650[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-15 19:55:41][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-15 19:55:41][00m [32m172.18.0.1:44650[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-15 19:55:41][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-17 16:56:05][00m [32m172.18.0.1:39626[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-17 16:56:05][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-17 16:56:06][00m [32m172.18.0.1:39628[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-17 16:56:06][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-17 16:56:07][00m [32m172.18.0.1:39628[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-17 16:56:07][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-25 20:25:43][00m [32m172.18.0.1:46192[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-25 20:25:43][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-25 20:25:44][00m [32m172.18.0.1:46194[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-25 20:25:44][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-25 20:25:45][00m [32m172.18.0.1:46194[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-25 20:25:45][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-06-26 00:07:59][00m [32m172.18.0.1:44980[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-26 00:07:59][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-26 00:07:59][00m [32m172.18.0.1:44982[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-26 00:07:59][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-26 00:07:59][00m [32m172.18.0.1:44982[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-26 00:07:59][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-26 00:08:06][00m [32m172.18.0.1:32784[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-26 00:08:06][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-06-26 00:08:06][00m [32m172.18.0.1:32784[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-05 09:36:50][00m [32m172.18.0.1:51096[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-05 09:36:50][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-05 09:36:50][00m [32m172.18.0.1:51098[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-05 09:36:50][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-05 09:36:50][00m [32m172.18.0.1:51098[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-05 09:36:50][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-05 16:51:20][00m [32m172.18.0.1:50034[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-05 16:51:20][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-05 16:51:20][00m [32m172.18.0.1:50036[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-05 16:51:20][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-05 16:51:20][00m [32m172.18.0.1:50036[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-05 16:51:20][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-07 01:46:12][00m [32m172.18.0.1:34310[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 01:46:12][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 01:46:12][00m [32m172.18.0.1:34312[00m requested to [31mGET[00m nonexistent entity [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/robots.txt[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 01:46:12][00m                            encoded as gzip for 519.2% ratio[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 01:46:13][00m [32m172.18.0.1:34312[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 01:46:13][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 01:46:14][00m [32m172.18.0.1:34312[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 01:46:14][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 01:46:17][00m [32m172.18.0.1:52550[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 01:46:17][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 01:46:17][00m [32m172.18.0.1:52550[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 01:46:17][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 01:46:18][00m [32m172.18.0.1:34312[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 01:46:18][00m [32m172.18.0.1:34312[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 01:46:19][00m [32m172.18.0.1:52550[00m requested to [31mGET[00m nonexistent entity [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/favicon.ico[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 01:46:19][00m                            encoded as gzip for 519.4% ratio[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-07 09:01:42][00m [32m172.18.0.1:49242[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 09:01:42][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 09:01:42][00m [32m172.18.0.1:49246[00m requested to [31mGET[00m nonexistent entity [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/favicon.ico[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 09:01:42][00m                            encoded as gzip for 519.4% ratio[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-07 14:48:04][00m [32m172.18.0.1:43584[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 14:48:04][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 14:48:04][00m [32m172.18.0.1:43586[00m requested to [31mGET[00m nonexistent entity [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/robots.txt[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 14:48:04][00m                            encoded as gzip for 519.2% ratio[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 14:48:04][00m [32m172.18.0.1:43586[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-07 14:48:04][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-08 12:49:16][00m [32m172.18.0.1:60736[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-08 12:49:16][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-08 12:49:16][00m [32m172.18.0.1:60738[00m requested to [31mGET[00m nonexistent entity [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/robots.txt[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-08 12:49:16][00m                            encoded as gzip for 519.2% ratio[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-08 12:49:16][00m [32m172.18.0.1:60738[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-08 12:49:16][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-09 00:28:04][00m [32m172.18.0.1:47834[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-09 00:28:04][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-09 00:28:04][00m [32m172.18.0.1:47836[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-09 00:28:04][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-09 00:28:04][00m [32m172.18.0.1:47836[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-09 00:28:04][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-09 18:44:45][00m [32m172.18.0.1:54438[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-09 18:44:45][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-09 18:44:45][00m [32m172.18.0.1:54440[00m requested to [31mGET[00m nonexistent entity [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/robots.txt[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-09 18:44:45][00m                            encoded as gzip for 519.2% ratio[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-09 18:44:45][00m [32m172.18.0.1:54440[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-09 18:44:45][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-13 13:15:32][00m [32m172.18.0.1:39674[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-13 13:15:32][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-13 13:15:32][00m [32m172.18.0.1:39676[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-13 13:15:32][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-13 13:15:32][00m [32m172.18.0.1:39676[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-13 13:15:32][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-13 15:45:10][00m [32m172.18.0.1:44456[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-13 15:45:10][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-13 15:45:10][00m [32m172.18.0.1:44458[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-13 15:45:10][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-13 15:45:10][00m [32m172.18.0.1:44458[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-13 15:45:10][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-17 03:50:51][00m [32m172.18.0.1:59068[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-17 03:50:51][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-17 03:50:51][00m [32m172.18.0.1:59070[00m requested to [31mGET[00m nonexistent entity [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/robots.txt[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-17 03:50:51][00m                            encoded as gzip for 519.2% ratio[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-17 03:50:51][00m [32m172.18.0.1:59070[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-17 03:50:51][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-17 20:17:43][00m [32m172.18.0.1:47706[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-17 20:17:43][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-17 20:17:43][00m [32m172.18.0.1:47708[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-17 20:17:43][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-17 20:17:43][00m [32m172.18.0.1:47708[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-17 20:17:43][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-17 20:17:57][00m [32m172.18.0.1:47710[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-17 20:18:11][00m [32m172.18.0.1:47712[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-17 20:18:43][00m [32m172.18.0.1:53274[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-17 20:18:43][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-17 20:18:43][00m [32m172.18.0.1:53274[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-17 20:20:00][00m [32m172.18.0.1:47714[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-18 16:30:39][00m [32m172.18.0.1:44692[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-18 16:30:39][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-18 16:30:39][00m [32m172.18.0.1:44694[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-18 16:30:39][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-18 16:30:40][00m [32m172.18.0.1:44694[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-18 16:30:40][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-18 23:39:35][00m [32m172.18.0.1:39340[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-18 23:39:35][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-18 23:39:35][00m [32m172.18.0.1:39342[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-18 23:39:35][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-18 23:39:35][00m [32m172.18.0.1:39342[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-18 23:39:35][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-20 10:24:23][00m [32m172.18.0.1:54152[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-20 10:24:23][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-20 10:24:23][00m [32m172.18.0.1:54156[00m requested to [31mGET[00m nonexistent entity [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/robots.txt[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-20 10:24:23][00m                            encoded as gzip for 519.2% ratio[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-20 10:24:23][00m [32m172.18.0.1:39214[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-20 10:24:23][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-20 10:26:22][00m [32m172.18.0.1:39216[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-20 10:26:22][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-20 10:41:53][00m [32m172.18.0.1:39218[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-20 10:41:53][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-20 10:41:54][00m [32m172.18.0.1:51324[00m requested to [31mGET[00m nonexistent entity [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/favicon.ico[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-20 10:41:54][00m                            encoded as gzip for 519.4% ratio[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-20 12:10:22][00m [32m172.18.0.1:44744[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-20 12:10:22][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-20 12:10:23][00m [32m172.18.0.1:44746[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-20 12:10:23][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-20 12:10:23][00m [32m172.18.0.1:44746[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-20 12:10:23][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-24 11:12:45][00m [32m172.18.0.1:43052[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-24 11:12:45][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-24 11:12:45][00m [32m172.18.0.1:43054[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-24 11:12:45][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-24 11:12:45][00m [32m172.18.0.1:43054[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-24 11:12:45][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-24 11:12:51][00m [32m172.18.0.1:43056[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-24 16:53:54][00m [32m172.18.0.1:35714[00m requested to [31mGET[00m nonexistent entity [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/robots.txt[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-24 16:53:54][00m                            encoded as gzip for 519.2% ratio[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-24 16:53:54][00m [32m172.18.0.1:35714[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-24 16:53:54][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-24 16:54:08][00m [32m172.18.0.1:35716[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-26 09:28:29][00m [32m172.18.0.1:52932[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-26 09:28:29][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-26 09:28:29][00m [32m172.18.0.1:52934[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-26 09:28:29][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-26 09:28:29][00m [32m172.18.0.1:52934[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-26 09:28:29][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-26 09:44:29][00m [32m172.18.0.1:44618[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-26 09:44:29][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-26 09:44:32][00m [32m172.18.0.1:44618[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-27 13:09:21][00m [32m172.18.0.1:34644[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-27 13:09:21][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-27 13:09:21][00m [32m172.18.0.1:34646[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-27 13:09:21][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-27 13:09:21][00m [32m172.18.0.1:34646[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-27 13:09:21][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-27 20:44:50][00m [32m172.18.0.1:54640[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-27 20:44:50][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-27 20:44:50][00m [32m172.18.0.1:54642[00m requested to [31mGET[00m nonexistent entity [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/robots.txt[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-27 20:44:50][00m                            encoded as gzip for 519.2% ratio[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-27 20:44:50][00m [32m172.18.0.1:54642[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-27 20:44:50][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-27 21:36:12][00m [32m172.18.0.1:44636[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-27 21:36:12][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-29 06:47:51][00m [32m172.18.0.1:59828[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-29 06:47:51][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-29 06:47:51][00m [32m172.18.0.1:59832[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-29 06:47:51][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-29 06:47:51][00m [32m172.18.0.1:59832[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-29 06:47:51][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-29 06:48:32][00m [32m172.18.0.1:60086[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-07-30 05:57:10][00m [32m172.18.0.1:44918[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-30 05:57:10][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-30 05:57:11][00m [32m172.18.0.1:44924[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-30 05:57:11][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-30 05:57:11][00m [32m172.18.0.1:44924[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-07-30 05:57:11][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-08-02 17:29:46][00m [32m172.18.0.1:45096[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-02 17:29:46][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-02 17:29:46][00m [32m172.18.0.1:45102[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-02 17:29:46][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-02 17:29:46][00m [32m172.18.0.1:45102[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-02 17:29:46][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-08-04 09:53:27][00m [32m172.18.0.1:60480[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-04 09:53:27][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-04 09:53:27][00m [32m172.18.0.1:60482[00m requested to [31mGET[00m nonexistent entity [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/robots.txt[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-04 09:53:27][00m                            encoded as gzip for 519.2% ratio[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-04 09:53:27][00m [32m172.18.0.1:50912[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-04 09:53:27][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-04 09:53:29][00m [32m172.18.0.1:50912[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-04 09:53:29][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-04 09:53:34][00m [32m172.18.0.1:40952[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-04 09:53:34][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-04 09:53:34][00m [32m172.18.0.1:40952[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-04 09:53:34][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-08-05 20:16:59][00m [32m172.18.0.1:49294[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-05 20:16:59][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-05 20:16:59][00m [32m172.18.0.1:49296[00m requested to [31mGET[00m nonexistent entity [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/robots.txt[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-05 20:16:59][00m                            encoded as gzip for 519.2% ratio[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-05 20:20:57][00m [32m172.18.0.1:46620[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-05 20:20:57][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-05 20:21:01][00m [32m172.18.0.1:55366[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-05 20:21:01][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-08-07 11:12:05][00m [32m172.18.0.1:47212[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-07 11:12:05][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-07 11:12:05][00m [32m172.18.0.1:47230[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-07 11:12:05][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-07 11:12:05][00m [32m172.18.0.1:47230[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-07 11:12:05][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-08-07 16:01:49][00m [32m172.18.0.1:41216[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-07 16:01:49][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-07 16:01:49][00m [32m172.18.0.1:41228[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-07 16:01:49][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-07 16:01:49][00m [32m172.18.0.1:41228[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-07 16:01:49][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-08-11 20:21:58][00m [32m172.18.0.1:41172[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-11 20:21:58][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-11 20:21:59][00m [32m172.18.0.1:41174[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-11 20:21:59][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-11 20:21:59][00m [32m172.18.0.1:41174[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-11 20:21:59][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-11 20:22:07][00m [32m172.18.0.1:41180[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-08-17 17:15:18][00m [32m172.18.0.1:46882[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-17 17:15:18][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-17 17:15:19][00m [32m172.18.0.1:46884[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-17 17:15:19][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-17 17:15:19][00m [32m172.18.0.1:46884[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-17 17:15:19][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-08-22 05:40:53][00m [32m172.18.0.1:43162[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-22 05:40:53][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-22 05:40:53][00m [32m172.18.0.1:43396[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-22 05:40:53][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-22 05:40:53][00m [32m172.18.0.1:43396[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-22 05:40:53][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-22 05:40:56][00m [32m172.18.0.1:44552[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-22 05:40:59][00m [32m172.18.0.1:45998[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-22 05:41:09][00m [32m172.18.0.1:40642[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-08-23 04:36:11][00m [32m172.18.0.1:33596[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-23 04:36:11][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-23 04:36:11][00m [32m172.18.0.1:33734[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-23 04:36:11][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-23 04:36:11][00m [32m172.18.0.1:33734[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-23 04:36:11][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-08-24 07:01:45][00m [32m172.18.0.1:33080[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-24 07:01:45][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-24 07:01:45][00m [32m172.18.0.1:33306[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-24 07:01:45][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-24 07:01:46][00m [32m172.18.0.1:33306[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-24 07:01:46][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-24 07:01:52][00m [32m172.18.0.1:36358[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-08-26 08:52:20][00m [32m172.18.0.1:57660[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-26 08:52:20][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-26 08:52:20][00m [32m172.18.0.1:57782[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-26 08:52:20][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-26 08:52:21][00m [32m172.18.0.1:57782[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-26 08:52:22][00m [32m172.18.0.1:57782[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-26 08:52:22][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-26 08:52:25][00m [32m172.18.0.1:35612[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-26 08:52:28][00m [32m172.18.0.1:38184[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-26 08:52:29][00m [32m172.18.0.1:36616[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-26 08:52:36][00m [32m172.18.0.1:38762[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-26 08:52:54][00m [32m172.18.0.1:46526[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-08-26 14:43:55][00m [32m172.18.0.1:60996[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-26 14:43:55][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-26 14:43:55][00m [32m172.18.0.1:32826[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-26 14:43:55][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-26 14:43:55][00m [32m172.18.0.1:32826[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-26 14:43:55][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-08-28 22:50:17][00m [32m172.18.0.1:60726[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-28 22:50:17][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-28 22:50:18][00m [32m172.18.0.1:60768[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-28 22:50:18][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-28 22:50:18][00m [32m172.18.0.1:60768[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-28 22:50:18][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-08-29 14:54:45][00m [32m172.18.0.1:38710[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-29 14:54:45][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-29 14:54:45][00m [32m172.18.0.1:38904[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-29 14:54:45][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-29 14:54:45][00m [32m172.18.0.1:38904[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-08-29 14:54:45][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-09-01 18:43:43][00m [32m172.18.0.1:59560[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-01 18:43:43][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-01 18:43:43][00m [32m172.18.0.1:59630[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-01 18:43:43][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-01 18:43:43][00m [32m172.18.0.1:59630[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-01 18:43:43][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-09-02 08:25:07][00m [32m172.18.0.1:37490[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-02 08:25:07][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-02 08:25:07][00m [32m172.18.0.1:37560[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-02 08:25:07][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-02 08:25:08][00m [32m172.18.0.1:37560[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-02 08:25:08][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-09-07 22:24:52][00m [32m172.18.0.1:37288[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-07 22:24:52][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-07 22:24:53][00m [32m172.18.0.1:37288[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-07 22:24:53][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-09-08 14:31:21][00m [32m172.18.0.1:47716[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-08 14:31:21][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-08 14:31:21][00m [32m172.18.0.1:47728[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-08 14:31:21][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-08 14:31:21][00m [32m172.18.0.1:47728[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-08 14:31:21][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-09-08 15:52:37][00m [32m172.18.0.1:47162[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-08 15:52:37][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-08 15:52:38][00m [32m172.18.0.1:47202[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-08 15:52:38][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-08 15:52:38][00m [32m172.18.0.1:47202[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-08 15:52:38][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-08 15:52:41][00m [32m172.18.0.1:47202[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-08 16:13:06][00m [32m172.18.0.1:45952[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-08 16:13:06][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-08 16:13:06][00m [32m172.18.0.1:45952[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-09-12 05:55:15][00m [32m172.18.0.1:43012[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-12 05:55:15][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-12 05:55:15][00m [32m172.18.0.1:43020[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-12 05:55:15][00m                            found index file for directory [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-12 05:55:16][00m [32m172.18.0.1:43020[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-12 05:55:16][00m Created temp dir [35m$TEMP/http-home-runner-release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-12 05:55:19][00m [32m172.18.0.1:43020[00m was served file [35m/home/runner/release-ff4dbfc6-b972-4c1a-9524-70b90475e28c/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-09-15 14:30:59][00m [32m172.18.0.1:34476[00m was served file [35m/home/runner/test1/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 14:30:59][00m                            found index file for directory [35m/home/runner/test1[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 14:30:59][00m [32m172.18.0.1:34476[00m was served file [35m/home/runner/test1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 14:30:59][00m Created temp dir [35m$TEMP/http-home-runner-test1/encoded[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 14:30:59][00m [32m172.18.0.1:47304[00m was served file [35m/home/runner/test1/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 14:30:59][00m                            found index file for directory [35m/home/runner/test1[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 14:31:00][00m [32m172.18.0.1:47304[00m was served file [35m/home/runner/test1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-09-15 14:33:37][00m [32m172.18.0.1:60972[00m was served file [35m/home/runner/test1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 14:33:38][00m [32m172.18.0.1:37702[00m was served file [35m/home/runner/test1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-09-15 14:36:42][00m [32m172.18.0.1:45730[00m was served file [35m/home/runner/test1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 14:36:43][00m [32m172.18.0.1:43096[00m was served file [35m/home/runner/test1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-09-15 14:37:38][00m [32m172.18.0.1:36442[00m was served file [35m/home/runner/test1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 14:37:38][00m [32m172.18.0.1:46800[00m was served file [35m/home/runner/test1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-09-15 14:38:56][00m [32m172.18.0.1:42506[00m was served file [35m/home/runner/test1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 14:38:56][00m [32m172.18.0.1:55210[00m was served file [35m/home/runner/test1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[00mHosting "." on port 8000 without TLS and no authentication...
+Ctrl-C to stop.
+
+[36m[2022-09-15 14:39:30][00m [32m172.18.0.1:37932[00m was served file [35m/home/runner/test1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 14:39:30][00m [32m172.18.0.1:52320[00m was served file [35m/home/runner/test1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 14:41:05][00m [32m172.18.0.1:41964[00m was served file [35m/home/runner/test1/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 14:41:05][00m                            found index file for directory [35m/home/runner/test1[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 14:41:05][00m [32m172.18.0.1:41964[00m was served file [35m/home/runner/test1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 14:41:06][00m [32m172.18.0.1:41964[00m requested to [31mGET[00m nonexistent entity [35m/home/runner/test1/favicon.ico[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 14:41:06][00m                            encoded as gzip for 519.4% ratio[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 15:03:13][00m [32m172.18.0.1:58912[00m was served file [35m/home/runner/test1/index.html[00m as [34mtext/html[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 15:03:13][00m                            found index file for directory [35m/home/runner/test1[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 15:03:15][00m [32m172.18.0.1:58928[00m was served file [35m/home/runner/test1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m
+[36m[2022-09-15 15:03:47][00m [32m172.18.0.1:54920[00m was served file [35m/home/runner/test1/main.pdf[00m as [34mapplication/pdf[00m[30m[31m[32m[33m[34m[35m[36m[37m[00m

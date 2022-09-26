@@ -1,0 +1,92 @@
+(2)
+\begin{equation}
+  Y_t = \{y_t^i, i = 1, ..., N_s\}
+\end{equation}
+
+(3)
+\begin{equation}
+  Y = \{Y_t, t = 1, ..., T_m\} = \{Y^i, i = 1, ..., N_m\}
+\end{equation}
+
+(4)
+\begin{equation}
+  \Re = \{R_i, i = 1, ..., K\}
+\end{equation}
+
+
+(5)
+\begin{equation}
+  d: \mathcal{F} \times \mathcal{F} \rightarrow \mathbb{R},    X^i , r_j^i \in \mathcal{F}
+\end{equation}
+
+(6)
+\begin{equation}
+  C \in \mathbb(R)^(N_x \times N_m)  C(n,m) = d(X^n, R_j^m)
+\end{equation}
+
+(7)
+\begin{equation}
+  d(X^n, R_j^m) = \sqrt{\sum_{i=1}^{N_s}(x_i^n - r_i^(m,j))^2}
+\end{equation}
+
+
+(8)
+\begin{equation}
+  d_p_i(X, R_j) = \sum_{l=1}^{L}d(X^n_l, R_j^m_l)
+\end{equation}
+
+
+(9)
+\begin{equation}
+  d_DTW(X,R_j) = d_p^\ast(X, R_j) = min\{d_p_i (X,R_j), siendo p_i un camino deformado\}
+\end{equation}
+
+(10)
+\begin{equation}
+  A = [a_i,j] a_i,j = P(v_k = u_j | v_k-1 = u_i)
+\end{equation}
+
+(11)
+\begin{equation}
+  B = [b_j(o_i)]  b_j(o_i) = P(X_k = o_i | v_k = u_j )
+\end{equation}
+
+(12)
+\begin{equation}
+  \prod =  [\varpi_i] \varpi_i = P(v_1 = u_i)
+\end{equation}
+
+(13)
+\begin{equation}
+  \lambda_i = \{A_i, B_i, \prod_i\}
+\end{equation}
+
+(14)
+\begin{equation}
+  P(v_k | v-1, ..., v_k-1) = P(v_k | v_k-1)
+\end{equation}
+
+(15)
+\begin{equation}
+  P(o_k|o_1, ..., o_k-1, v_1, ..., v_k) = P(o_k 1 v_k)
+\end{equation}
+
+(16)
+\begin{equation}
+  P(O | \lambda) = \sum_{v}P(O|V, \lambda)P(V|\lambda) = \sum_{v}(\prod_{i=1}^{Z_o}P(o_i|v_i, \lambda))(\varpi_v1 \cdot a_v1v2 \cdot ... \cdot a_v_(zv-1)v_zv) = \sum_{v1, v2, ..., v_zv} \varpi_v1 \cdot b_v1(o_1) \cdot a_v1v2 \cdot b_v2(o_2) \cdot ... \cdot a_v_(zv-1)v_zvb \cdot b_vzv(o_zo)
+\end{equation}
+
+(17)
+\begin{equation}
+  a_i,j =  P(u_j | u_i) = (contar(u_j sigue u_i))\div contar(u_j)
+\end{equation}
+
+(18)
+\begin{equation}
+  b_j(o_i) = P(o_i | u_j) = (contar(o_i es observado en el estado u_j))\div count(u_j)
+\end{equation}
+
+(19)
+\begin{equation}
+  \varpi_i = P(v_1 = u_i) = (contar(v_1 = u_i))\div contar(v_1)
+\end{equation}
